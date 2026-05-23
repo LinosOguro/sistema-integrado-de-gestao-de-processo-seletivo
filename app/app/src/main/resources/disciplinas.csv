@@ -1,0 +1,5 @@
+codigo,nome,dia,horario,aulaDiaria,codigoCurso,status
+101,Cálculo,Segunda-feira,13:00,2,111,Inativa
+102,Cálculo 2,Segunda-feira,13:00,2,111,Inativa
+103,Geometria,Quarta-feira,14:00,4,111,Ativa
+104,Física Quantica,Sábado,09:00,4,111,Ativa
